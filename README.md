@@ -2,8 +2,10 @@
 
 ## api-fetch.py
 
-To run this file we need to install requests library in our environment.
-To do this simply run:
+File with function that fetch data from NVD api and return a list of dicts with cves
+Below you can find how to install dependencies needed for this script and usage example.
+
+###Install dependencies
 
 ```
 pip3 install requests
@@ -15,13 +17,7 @@ and also if needed:
 pip3 install json
 ```
 
-To run program just open terminal and type:
-
-```
-python3 api-fetch.py
-```
-
-Example of usege:
+###Example of usage:
 
 ```python3
 from api_fetch import fetch_data_from_api
