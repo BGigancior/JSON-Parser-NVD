@@ -11,7 +11,7 @@ and also if needed:
 ```
 pip3 install json
 ```
-To run program just run terminal and type:
+To run program just open terminal and type:
 ```
 python3 api-fetch.py
 ```
