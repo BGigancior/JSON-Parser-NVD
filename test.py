@@ -1,3 +1,3 @@
-from api_fetch import get_data_from_api
+from api_fetch import fetch_data_from_api
 
-print(get_data_from_api())
+print(fetch_data_from_api())
