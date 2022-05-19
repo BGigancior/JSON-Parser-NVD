@@ -50,3 +50,5 @@ from data_read import read_data
 
 data = read_data(a,b)
 ```
+## Link to all zipped CVE json files
+https://drive.google.com/file/d/1kCHLiiVN7cgi49Trmzt2tSWtH-bfhlPe/view?usp=sharing
