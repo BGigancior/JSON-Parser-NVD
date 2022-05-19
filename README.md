@@ -37,3 +37,16 @@ from convert_to_csv import create_csv_from_data
 
 create_csv_from_data(fetch_data_from_api(),'test')
 ```
+
+## data_read.py
+
+Script that read all cve data from given time period and return it as a list of all cve itmes in one list.
+
+### Example of usage:
+
+```python3
+import json
+from data_read import read_data
+
+data = read_data(a,b)
+```
